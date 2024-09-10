@@ -1,7 +1,9 @@
 # positional-Salaries
 
 Decision Tree Regression
+
 Overview
+
 This project implements a Decision Tree Regression model to predict salaries based on position levels using a dataset. The dataset used is Position_Salaries.csv, which contains position levels and their corresponding salaries.
 
 Files
