@@ -42,6 +42,7 @@ Train the Model: Use the DecisionTreeRegressor from sklearn.tree to fit the mode
 ### **Predict and Visualize**:
 
 Predictions: Use the trained model to predict the salary for any given position level.
+
 Visualization: Visualize the regression results using Matplotlib, which includes:
 
 -A scatter plot of the original data points.
@@ -54,6 +55,7 @@ Visualization: Visualize the regression results using Matplotlib, which includes
 The project visualizes the Decision Tree Regression results in two ways:
 
 Scatter Plot: Displays the original data points to show the relationship between position levels and salaries.
+
 Regression Curve: Displays the model's predictions, helping visualize how well the decision tree model has fit the data.
 The curve is smoothed to enhance visualization of the model's predictions.
 
