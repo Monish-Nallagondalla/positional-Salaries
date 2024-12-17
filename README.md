@@ -46,7 +46,9 @@ Predictions: Use the trained model to predict the salary for any given position 
 Visualization: Visualize the regression results using Matplotlib, which includes:
 
 -A scatter plot of the original data points.
+
 -A regression curve showing the model's predictions.
+
 -A smoothed curve for better visualization of the model's performance.
 
 ---
